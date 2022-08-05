@@ -16,10 +16,10 @@ I want to provide Course, `step by step`, to learn Express Application.
 > - [Design](https://github.com/Boiler-Express/.github/tree/main/notes/design)
 >   - [Singleton Pattern](https://github.com/Boiler-Express/.github/tree/main/notes/design/SINGLETON.md)
 
-| Series                      | Purpose                          | Link                                     |
-| :-------------------------- | :------------------------------- | :--------------------------------------- |
-| Module Tutorial             | To learn joi, jest, etc          | [Link](./BASIC-COURSE.md)                |
-| Basic Course                | To learn Express as step by step | [Link](./MODULE_TUTORIAL.md)             |
-| Advanced Course, TypeScript | To build Express with TypeScript | [Link](./ADVANCED-COURSE.TYPESCRIPT.md)  |
-| Advanced Course, Security   | To build Express with Scure Code | [Link](./ADVANCED-COURSE.SECURITY.md)    |
+| Process | Series                      | Purpose                          | Link                                     |
+| :-----: | :-------------------------- | :------------------------------- | :--------------------------------------- |
+| 🔧     | Module Tutorial             | To learn joi, jest, etc          | [Link](./BASIC-COURSE.md)                |
+| 🔧     | Basic Course                | To learn Express as step by step | [Link](./MODULE_TUTORIAL.md)             |
+| - | Advanced Course, TypeScript | To build Express with TypeScript | [Link](./ADVANCED-COURSE.TYPESCRIPT.md)  |
+| - | Advanced Course, Security   | To build Express with Scure Code | [Link](./ADVANCED-COURSE.SECURITY.md)    |
 
