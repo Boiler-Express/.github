@@ -37,3 +37,7 @@ I want to provide Course, `step by step`, to learn Express Application.
 ## Advanced Course, Security
 
 [Boiler-Express/~/ADVANCED-COURSE.SECURITY](https://github.com/Boiler-Express/.github/blob/main/profile/ADVANCED-COURSE.SECURITY.md)
+
+## Module Tutorial ✅
+
+[Boiler-Express/.github - Module Tutorial](./MODULE_TUTORIAL.md)
